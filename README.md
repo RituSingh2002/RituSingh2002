@@ -1,6 +1,6 @@
  
 
-<h2> Hi there, I am <a >Varsha kaushal </a> <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
+<h2> Hi there, I am <a >Ritu Singh </a> <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
  <img align='right' src="https://media.giphy.com/media/XGmwiw4CkjtAIU3b0z/giphy.gif" width="250"> 
  
 - 🏫 I am a second year Undergrad persuing B.Tech in Electronics and communication at Haldia Institute of Technology.
