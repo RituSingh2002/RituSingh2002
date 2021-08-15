@@ -5,7 +5,7 @@
  
 - 🏫 I am a second year Undergrad persuing B.Tech in computer science 
 - 🔭  I’m currently  exploring full stack
-- 📫 How to reach me:  https://www.linkedin.com/in/ritu-singh-534002194/
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/ritu-singh-534002194/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 - 🎯 2021 Goal is to contribute  in open source and improve my coding skills.
 - 😄 Pronouns: she/her
 
