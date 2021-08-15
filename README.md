@@ -3,10 +3,10 @@
 <h2> Hi there, I am <a >Ritu Singh </a> <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
  <img align='right' src="https://media.giphy.com/media/XGmwiw4CkjtAIU3b0z/giphy.gif" width="250"> 
  
-- 🏫 I am a second year Undergrad persuing B.Tech in Electronics and communication at Haldia Institute of Technology.
-- 🔭  I’m currently improving my competitive programming skills and learning python
+- 🏫 I am a second year Undergrad persuing B.Tech in computer science 
+- 🔭  I’m currently  exploring full stack
 - 📫 How to reach me:  https://www.linkedin.com/in/ritu-singh-534002194/
-- 🎯 2021 Goal is to contribute  in open source.
+- 🎯 2021 Goal is to contribute  in open source and improve my coding skills.
 - 😄 Pronouns: she/her
 
 <br>
