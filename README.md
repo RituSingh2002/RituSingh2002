@@ -1,19 +1,36 @@
-### Hi there , I'm Ritu Singh 👋
-  
-- 🌱 I’m currently learning Full Stack
- - 💬 Ask me about any tech related stuff
-
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/ritu-singh-534002194/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:400px;"></a>
-<a href="https://auth.geeksforgeeks.org/user/ritusingh29g/practice/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/ce4b2b46a2623567c21a19fc58b7798c6e24afe8fd10d37728a993aefcd1c873/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6765656b73666f726765656b732e737667" alt="Ritu-singh/profile" height="110" width="80" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" style="max-width:100%; margin-top: 400px;"></a>
-- 😄 Pronouns:She/Her
- <img src="https://github-readme-stats.vercel.app/api?username=RituSingh2002&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RituSingh2002&theme=tokyonight">
-
- 
  
 
+<h2> Hi there, I am <a >Varsha kaushal </a> <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
+ <img align='right' src="https://media.giphy.com/media/XGmwiw4CkjtAIU3b0z/giphy.gif" width="250"> 
+ 
+- 🏫 I am a second year Undergrad persuing B.Tech in Electronics and communication at Haldia Institute of Technology.
+- 🔭  I’m currently improving my competitive programming skills and learning python
+- 📫 How to reach me:  https://www.linkedin.com/in/ritu-singh-534002194/
+- 🎯 2021 Goal is to contribute  in open source.
+- 😄 Pronouns: she/her
 
- 
+<br>
+💻 Tech Stack I am Familiar With:
+<div class="row">
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+<br /> <br />
+
+<img  src="https://github-readme-stats.vercel.app/api?username=RituSingh2002&show_icons=true&hide_border=true&theme=highcontrast" width="48%" >
  
- 
+**⚙️ Visitors Count:**
+<br>
+![Visitor Count](https://profile-counter.glitch.me/{RituSingh2002}/count.svg)
+### Connect with me
+<a href="mailto:ritusingh29g@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ritu-singh-534002194/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
