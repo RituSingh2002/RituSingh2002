@@ -4,7 +4,7 @@
  <img align='right' src="https://media.giphy.com/media/XGmwiw4CkjtAIU3b0z/giphy.gif" width="250"> 
  
 - 🏫 I am a  Pre-final year Undergrad persuing B.Tech in computer science 
-- 🔭  I’m currently  exploring full stack $ Backend Development (Java , Spring )
+- 🔭  I’m currently  exploring full stack $ Backend Development (Java )
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/ritu-singh-534002194/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 - 🎯 2021 Goal is to contribute  in open source and improve my coding skills.
 - 😄 Pronouns: she/her
