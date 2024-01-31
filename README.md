@@ -3,7 +3,7 @@
 <h2> Hi there, I am <a >Ritu Singh </a> <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
  <img align='right' src="https://media.giphy.com/media/XGmwiw4CkjtAIU3b0z/giphy.gif" width="250"> 
  
-- 🏫 I am a  final year Undergrad persuing B.Tech in computer science 
+- 🏫 I have completed my B.Tech in computer science 
 - 🔭  I’m currently  exploring full stack $ Backend Development (Java )
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/ritu-singh-534002194/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 - 🎯 2022 Goal is improve my coding skills.
